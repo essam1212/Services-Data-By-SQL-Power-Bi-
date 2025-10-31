@@ -1,53 +1,57 @@
-Service Branch Dashboard – Power BI Data Analysis Project
+# 📊 Service Branch Dashboard – Power BI Data Analysis Project
 
-This project presents a Service Branch Dashboard built in Microsoft Power BI, connected to a SQL Server database.
-It visualizes key performance metrics and trends for a company that provides hourly professional services across multiple regions.
+This project presents a **Service Branch Dashboard** built in **Microsoft Power BI**, connected to a **SQL Server** database.  
+It visualizes key performance metrics and business trends for a company providing hourly professional services across multiple regions.
 
-The dashboard offers an interactive overview of total revenue and total hours worked, with detailed analysis by department, client, region, and month.
-Using SQL queries for data aggregation and Power BI visuals such as bar charts, donut charts, and line graphs, the data was transformed into meaningful business insights.
----------------------------------------------------------------------------------------------------
-📊 Key Findings:
+The dashboard delivers interactive insights into **Total Revenue**, **Total Hours Worked**, and detailed breakdowns by **Department**, **Client**, **Region**, and **Month**.  
+Using SQL queries for data aggregation and Power BI visuals such as bar charts, donut charts, and line graphs, raw data was transformed into meaningful business insights.
 
-Total Revenue: 195.32M
+---
 
-Total Hours: 217K
+## ✨ Project Structure & Key Analysis
 
-The Europe region recorded the highest total hours (81K).
+The dashboard is structured into several analytical sections focusing on performance, client contribution, and regional analysis.
 
-The Americas region achieved the highest total revenue (73.69M).
+### 1. Performance Overview
+- **Total Revenue:** 195.32M  
+- **Total Hours:** 217K  
+- **Top Regions:**
+  - **Europe:** Highest total hours (81K)
+  - **Americas:** Highest total revenue (73.69M)
+- **Top Departments:** Audit and Management  
+- **Top Client:** Smith Inc  
+- **Peak Months:** March and July showed the highest performance in revenue trends  
 
-Audit and Management departments generated the highest revenue.
+### 2. Drill-Down Analysis
+- Department-wise revenue and hours  
+- Regional contribution to total hours  
+- Client-based performance breakdown  
 
-Smith Inc was the top client by total revenue.
+---
 
-March and July showed peak monthly performance in revenue trends.
----------------------------------------------------------------------------------------------------
-💡 Business Insights & Recommendations:
+## 💡 Business Insights & Recommendations
 
-The Americas region demonstrates strong financial performance; consider expanding operations or services there.
+- **Expand Operations in the Americas:** Strong financial results suggest scaling services or marketing efforts there.  
+- **Optimize Workforce in Europe:** High total hours indicate potential efficiency improvements.  
+- **Strengthen Client Relations:** Focus on high-performing clients such as **Smith Inc** and **Smith PLC** for long-term contracts.  
+- **Leverage Best Practices:** Use Audit and Management departments’ success as internal training benchmarks.  
+- **Investigate Underperformance:** Analyze EMEA region challenges like low demand or pricing strategy misalignment.  
 
-The Europe region has the highest working hours — investigate potential efficiency improvements or workforce optimization.
+---
 
-Focus on high-performing clients such as Smith Inc and Smith PLC for potential long-term contracts or loyalty programs.
+## 🧠 Skills & Tools Demonstrated
 
-Departments like Audit and Management can be leveraged for internal knowledge sharing to enhance performance across other departments.
+- **SQL Server:** Data Modeling, KPI Calculation, and Query Optimization  
+- **Power BI:** Data Visualization, DAX Measures, and Interactive Dashboards  
+- **Business Analysis:** Performance Evaluation, Trend Analysis, and Strategic Recommendations  
 
-Review low-performing regions (EMEA) to identify issues such as market demand or pricing challenges.
--------------------------------------------------------------------------------------
-🧠 Skills & Tools Demonstrated:
+---
 
-Data Modeling & Relationships in SQL Server
+## 🧰 Tools Used
 
-SQL Query Writing for KPI and Aggregation
+- Microsoft SQL Server  
+- Microsoft Power BI Desktop  
 
-Power BI Data Visualization
+---
 
-Interactive Slicers (Quarter, Region, Month)
-
-Business Insights and Performance Analysis
-
-Tools Used:
-
-Microsoft SQL Server
-
-Microsoft Power BI
+## 📂 Repository Structure
