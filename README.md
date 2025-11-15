@@ -52,6 +52,4 @@ The dashboard is structured into several analytical sections focusing on perform
 - Microsoft SQL Server  
 - Microsoft Power BI Desktop  
 
----
 
-## 📂 Repository Structure
