@@ -6,8 +6,19 @@ It visualizes key performance metrics and business trends for a company providin
 The dashboard delivers interactive insights into **Total Revenue**, **Total Hours Worked**, and detailed breakdowns by **Department**, **Client**, **Region**, and **Month**.  
 Using SQL queries for data aggregation and Power BI visuals such as bar charts, donut charts, and line graphs, raw data was transformed into meaningful business insights.
 
----
 
+---
+## 🖥️ Dashboard Preview
+
+### **Dashboard**
+
+![Dashboard](services data2.png)
+
+### **sql-Database**
+
+![sql-Database](sql-Database.png)
+
+------------------
 ## ✨ Project Structure & Key Analysis
 
 The dashboard is structured into several analytical sections focusing on performance, client contribution, and regional analysis.
