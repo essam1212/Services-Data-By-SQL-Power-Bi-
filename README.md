@@ -12,7 +12,7 @@ Using SQL queries for data aggregation and Power BI visuals such as bar charts, 
 
 ### **Dashboard**
 
-![Dashboard](services data2.png)
+![Dashboard](services_data2.png)
 
 ### **sql-Database**
 
